@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+  background-color: beige;
+}
+
+h1{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color:silver;
+}
+
+li {
+  list-style: none;
+  color: teal
+}
+
+a{
+  color:green;
+}
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 900;
+}
+
+h2 {
+  line-height: 34px;
+}
+
+p {
+  color: blue;
+}
