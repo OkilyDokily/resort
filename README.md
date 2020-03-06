@@ -11,7 +11,7 @@ _This is a concept page for a resort website to demonstrate an understanding of 
 ## Setup/Installation Requirements
 
 No installation necessary! 
-Visit https://github.com/OkilyDokily/resort
+Visit https://okilydokily.github.io/resort/
 
 ## Known Bugs
 
